@@ -65,9 +65,9 @@ storm:
     role: grad
     image: /img/people/storm.png
 
-grad-a:
-    display_name: "Grad A"
-    role: grad
+# grad-a:
+#     display_name: "Grad A"
+#     role: grad
 
 grad-b:
     display_name: "Graduate Student B With Long Name"
