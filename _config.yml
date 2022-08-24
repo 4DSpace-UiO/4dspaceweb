@@ -1,5 +1,7 @@
 name: 4DSpace Research Group at UiO
+title: 4DSpace Research Group
 url: https://4dspace.github.io/4dspaceweb/
+
 
 exclude: [bibble, README.md, Makefile, screenshot.png]
 
