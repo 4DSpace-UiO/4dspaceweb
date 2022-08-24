@@ -1,30 +1,57 @@
 
-prof-a:
-    display_name: "Prof A"
+prof-miloch:
+    display_name: "Prof. Wojciech J. Miloch"
     role: faculty
+    image: /img/people/photo_wojciech_miloch.jpeg
+    bio: Professor (Project Leader)
+    webpage: "https://www.mn.uio.no/fysikk/english/people/aca/wojciecm/index.html"
 
-prof-b:
-    display_name: "Prof B"
+prof-lasse:
+    display_name: "Prof. Lasse B. Clausen"
     role: faculty
-
-prof-c:
-    display_name: "Prof C"
-    role: faculty
-
-profx:
-    display_name: "Professor X"
-    webpage: "http://en.wikipedia.org/wiki/Professor_X"
-    github: profx
-    role: faculty
-    image: /img/people/prof-x.png
+    image: /img/people/lasse-clausen.jpeg
     bio: Professor
+    webpage: "https://www.mn.uio.no/fysikk/english/people/aca/lbnc/index.html"
+
+prof-Mikael:
+    display_name: "Prof. Mikael Mortensen"
+    role: faculty
+    image: /img/people/mikael.jpeg
+    bio: Professor (Mechanics)
+    webpage: "https://www.mn.uio.no/math/english/people/aca/mikaem/index.html"
+
+prof-ketil:
+    display_name: "Prof. Ketil Røed"
+    role: faculty
+    image: /img/people/ketil.jpeg
+    bio: Professor (Electronics)
+    webpage: "https://www.mn.uio.no/fysikk/english/people/aca/ketilroe/index.html"
+
+
+prof-Philipp:
+    display_name: "Prof. Philipp Dominik Häfliger"
+    role: faculty
+    image: /img/people/hafliger.jpeg
+    bio: Professor (Resarch Group for Nanoelectronic systems)
+    webpage: "https://www.mn.uio.no/ifi/english/people/aca/hafliger/index.html"
+# prof-c:
+#     display_name: "Prof C"
+#     role: faculty
+
+# profx:
+#     display_name: "Professor X"
+#     webpage: "http://en.wikipedia.org/wiki/Professor_X"
+#     github: profx
+#     role: faculty
+#     image: /img/people/prof-x.png
+#     bio: Professor
 
 scott:
-    display_name: "Scott Summers"
-    webpage: "http://en.wikipedia.org/wiki/Cyclops_(comics)"
+    display_name: "Bjørn Lybekk"
+    webpage: "https://www.mn.uio.no/fysikk/english/people/adm/blybekk/index.html"
     role: staff
-    image: /img/people/scott.png
-    bio: aka Cyclops
+    image: /img/people/blybekk.jpeg
+    bio: Senior engineer
 
 wolverine:
     display_name: "Wolverine"
