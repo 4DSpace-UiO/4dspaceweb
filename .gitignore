@@ -1,4 +1,5 @@
 _site
-_includes/pubs.html
+
 /test-deploy.sh
 .jekyll-cache
+.DS_Store
