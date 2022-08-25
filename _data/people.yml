@@ -73,24 +73,26 @@ yaqi:
     role: researcher
     bio: Researcher
 
-# magnus:
-#     display_name: "Magnus Fagernes Ivarsen"
-#     webpage: "https://www.mn.uio.no/fysikk/english/people/aca/magnusiv/index.html"
-#     role: postdoc
-#     image: /img/people/magnus.jpeg
-#     bio: Postdoc
+magnus:
+    display_name: "Magnus Fagernes Ivarsen"
+    webpage: "https://www.mn.uio.no/fysikk/english/people/aca/magnusiv/index.html"
+    role: postdoc
+    image: /img/people/magnus.jpeg
+    bio: Postdoc
 
 florine:
     display_name: "Florine Enengl"
     webpage: "https://www.mn.uio.no/fysikk/english/people/aca/florinee/index.html"
     role: phd
     image: /img/people/florine.jpeg
+    bio: PhD
 
 pascal:
     display_name: "Pascal Sado"
     webpage: "https://www.mn.uio.no/fysikk/english/people/aca/pascalsa/index.html"
     role: phd
     image: /img/people/pascal.jpeg
+    bio: PhD
 
 
 lisa:
@@ -98,10 +100,12 @@ lisa:
     webpage: "https://www.mn.uio.no/fysikk/english/people/aca/lisambu/index.html"
     role: phd
     image: /img/people/lisa.png
+    bio: PhD
 
-# grad-a:
-#     display_name: "Grad A"
-#     role: grad
+
+grad-a:
+    display_name: "Grad A"
+    role: grad
 
 grad-b:
     display_name: "Graduate Student B With Long Name"
@@ -111,22 +115,22 @@ grad-c:
     display_name: "Grad C"
     role: grad
 
-# grad-d:
-#     display_name: "Grad D"
-#     role: grad
-#
-# grad-e:
-#     display_name: "Grad E"
-#     role: grad
-#
-# grad-f:
-#     display_name: "Grad F"
-#     role: grad
-#
-# grad-g:
-#     display_name: "Grad G"
-#     role: grad
-#
+grad-d:
+    display_name: "Grad D"
+    role: grad
+
+grad-e:
+    display_name: "Grad E"
+    role: grad
+
+grad-f:
+    display_name: "Grad F"
+    role: grad
+
+grad-g:
+    display_name: "Grad G"
+    role: grad
+
 # grad-h:
 #     display_name: "Grad H"
 #     role: grad
