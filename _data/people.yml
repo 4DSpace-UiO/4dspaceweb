@@ -34,17 +34,7 @@ prof-Philipp:
     image: /img/people/hafliger.jpeg
     bio: Professor (Resarch Group for Nanoelectronic systems)
     webpage: "https://www.mn.uio.no/ifi/english/people/aca/hafliger/index.html"
-# prof-c:
-#     display_name: "Prof C"
-#     role: faculty
 
-# profx:
-#     display_name: "Professor X"
-#     webpage: "http://en.wikipedia.org/wiki/Professor_X"
-#     github: profx
-#     role: faculty
-#     image: /img/people/prof-x.png
-#     bio: Professor
 
 bjørn:
     display_name: "Bjørn Lybekk"
@@ -59,6 +49,43 @@ espen:
     role: engineer
     image: /img/people/espentr.jpeg
     bio: Senior Engineer
+
+prof-hans:
+    display_name: "Prof. Hans Laszlo Pecseli"
+    role: emeritus
+    image: /img/people/hanspe.jpeg
+    bio: Professor Emeritus
+    webpage: "https://www.mn.uio.no/fysikk/english/people/aca/hanspe/index.html"
+
+prof-alv:
+    display_name: "Prof. Alv Egeland"
+    role: emeritus
+    image: /img/people/alv_egeland.jpeg
+    bio: Professor Emeritus
+    webpage: "https://www.mn.uio.no/fysikk/english/people/aca/alve/index.html"
+
+prof-per:
+    display_name: "Prof. Per Høeg"
+    role: emeritus
+    image: /img/people/perhoeg.jpeg
+    bio: Professor Emeritus
+    webpage: "https://www.mn.uio.no/fysikk/english/people/aca/hoeg/index.html"
+
+prof-Jan:
+    display_name: "Prof. Jan Anstein Holtet"
+    role: emeritus
+    image: /img/people/jan_holtet.jpeg
+    bio: Professor Emeritus
+    webpage: "https://www.mn.uio.no/fysikk/english/people/aca/janah/index.html"
+
+prof-arne:
+    display_name: "Prof. Arne Pedersen"
+    role: emeritus
+    image: /img/people/arne_pedersen.jpeg
+    bio: Professor Emeritus
+    webpage: "https://www.mn.uio.no/fysikk/english/people/aca/ape/index.html"
+
+
 
 daria:
     display_name: "Daria Kotova"
@@ -152,23 +179,31 @@ grad-g:
 #     display_name: "Grad I"
 #     role: grad
 
-alum-a:
-    display_name: "Sigvald Marholm"
-    role: alum
-    webpage: "https://www.linkedin.com/in/sigvald-marholm-83963068/"
-    bio: "Ph.D. (2020), Researcher (2022). Now at Institute for Energy Technology (IFE)"
 
-alum-b:
+
+alum-sayan:
     display_name: "Sayan Adhikari"
     role: alum
     webpage: "https://www.linkedin.com/in/sayan-adhikari/"
-    bio: "Researcher (2022). Now at Institute for Energy Technology (IFE)"
+    bio: "Researcher (2022). Now at Institute for Energy Technology (IFE), Norway"
 
-alum-c:
+alum-sigvald:
+    display_name: "Sigvald Marholm"
+    role: alum
+    webpage: "https://www.linkedin.com/in/sigvald-marholm-83963068/"
+    bio: "Ph.D. (2020), Researcher (2022). Now at Institute for Energy Technology (IFE), Norway"
+
+alum-anders:
+    display_name: "Anders Eklund"
+    role: alum
+    webpage: "https://www.sintef.no/en/all-employees/employee/anders.eklund/"
+    bio: "Postdoc (2021). Now at SINTEF, Norway"
+
+alum-toru:
     display_name: "Toru Takahashi"
     role: alum
     webpage: "https://www.researchgate.net/profile/Toru-Takahashi-13"
-    bio: "Researcher at National Institute of Maritime, Port and Aviation Technology, Japan"
+    bio: "Postdoc (2020). Now at National Institute of Maritime, Port and Aviation Technology, Japan"
 
 # alum-d:
 #     display_name: "Alum D"
