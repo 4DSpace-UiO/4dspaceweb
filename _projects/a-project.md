@@ -1,44 +1,21 @@
 ---
-title: A Project
+title: Japan-Norway Partnership for Computing in Space Science
 
 description: |
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut hendrerit blandit
-  varius. Pellentesque habitant morbi tristique senectus et netus et malesuada
-  fames ac turpis egestas.
+  Norway and Japan are very active in space science and exploration. For example, both countries send scientific rockets and satellites into the ionosphere, which is the uppermost part of the Earth atmosphere. In the polar regions it is directly connected to the interplanetary space and this is where we can observe auroras, which are due to highly energetic electrons originating from the Sun and entering the Earth atmosphere. Today, space science increasingly relies on numerical modeling and advanced numerical data analysis.
 
 people:
-  - storm
-  - profx
-  - grad-b
-  - scott
-  - wolverine
+  - prof-miloch
+  - prof-Mikael
+  - steffen
 
 layout: project
-last-updated: 2015-05-05
+image: "/img/jpno_big.jpg"
+last-updated: 2022-08-25
 ---
 
-Proin massa augue, eleifend non ultricies eget, feugiat ut nisl. Fusce at
-aliquet justo, id elementum lacus. Praesent eleifend tempus molestie. Nunc
-vulputate sed tortor a ultrices. Nullam blandit hendrerit nisi, at suscipit
-augue ultricies quis. Nulla tincidunt rhoncus nisl sed consectetur. Phasellus
-dapibus, leo in varius tempus, nibh velit tincidunt lacus, ut porta eros ex et
-eros. Ut diam purus, sagittis vitae cursus eu, molestie eget turpis. Sed
-consectetur magna in posuere faucibus. Morbi nibh eros, blandit ut vehicula ac,
-pellentesque ut urna.
+Norway and Japan are very active in space science and exploration. For example, both countries send scientific rockets and satellites into the ionosphere, which is the uppermost part of the Earth atmosphere. In the polar regions it is directly connected to the interplanetary space and this is where we can observe auroras, which are due to highly energetic electrons originating from the Sun and entering the Earth atmosphere. Today, space science increasingly relies on numerical modeling and advanced numerical data analysis.   
 
-Maecenas scelerisque ut enim non convallis. Mauris ut nisl vitae mi dictum
-mollis. Pellentesque iaculis lacinia nisl viverra laoreet. Integer ac lacus quis
-elit varius mollis et ultrices tortor. Aliquam id dolor cursus, sagittis arcu
-tincidunt, scelerisque nisi. Morbi scelerisque feugiat mi in faucibus. Maecenas
-suscipit aliquet est et efficitur. Nullam sed purus nec nulla placerat ultrices
-ac at ipsum. Mauris a imperdiet eros.
+Through the Japan-Norway Partnership for Computing in Space Science, we develop, strengthen, and consolidate the collaboration between both countries in education and research within a broad context of computing in space research. We establish a research-based educational platform which is related to ongoing and future space missions. The partnership also provides a framework for increased mobility of university students and researchers.   
 
-Aenean malesuada tellus nulla, ut ultrices purus dictum et. Nunc non eleifend
-nulla, ut luctus nulla. Nulla et accumsan odio. Fusce libero nisl, rutrum ac
-risus sit amet, interdum feugiat eros. Morbi semper scelerisque magna vel
-malesuada. Curabitur in blandit orci. Cras eu tincidunt odio. Sed consectetur
-nunc purus, id pharetra felis fermentum vitae. Sed rhoncus lacus lacus. Aenean a
-ante et quam viverra pharetra interdum id ligula. Vestibulum lobortis ipsum ac
-risus sagittis, non dapibus metus finibus. Quisque efficitur felis sed felis
-luctus, non egestas ex dapibus. Sed pharetra gravida augue, id posuere nunc
-fringilla eget.
+We establish a joint course in numerical simulations of space environment, organize schools and symposia on computing in space data science, scientific workshops, and encourage student exchange and staff mobility. All activities are related to ongoing research projects, including joint sounding rocket experiments, satellite experiments, and larger exploratory missions, such as the joint European-Japanese BepiColombo mission to Mercury. We focus on numerical modelling of physical processes, performance of instruments, and data analysis. The main partners: the University of Oslo, Kobe University, and Kyoto University form together hubs for research and education in computing in space science. Other academic and industrial partners are also invited to join this collaboration.

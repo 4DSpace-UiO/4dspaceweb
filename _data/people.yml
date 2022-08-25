@@ -102,6 +102,13 @@ lisa:
     image: /img/people/lisa.png
     bio: Doctoral Research Fellow (PhD)
 
+steffen:
+    display_name: "Steffen Mattias Brask"
+    webpage: "https://www.mn.uio.no/fysikk/english/people/aca/steffemb/index.html"
+    role: phd
+    # image: /img/people/lisa.png
+    bio: Doctoral Research Fellow (PhD)
+
 anna:
     display_name: "Anna Piterskaya"
     webpage: "https://www.mn.uio.no/math/english/people/aca/annapit/index.html"
