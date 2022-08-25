@@ -16,9 +16,9 @@ roles:
   - key: faculty
     name: Faculty
   - key: engineer
-    name: Engineer
-  # - key: postdoc
-  #   name: Postdocs
+    name: Engineers
+  - key: postdoc
+    name: Postdocs
   - key: researcher
     name: Researchers
   - key: phd

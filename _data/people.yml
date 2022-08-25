@@ -51,14 +51,14 @@ bjørn:
     webpage: "https://www.mn.uio.no/fysikk/english/people/adm/blybekk/index.html"
     role: engineer
     image: /img/people/blybekk.jpeg
-    bio: Senior engineer
+    bio: Senior Engineer
 
 espen:
     display_name: "Espen Trondsen"
     webpage: "https://www.mn.uio.no/fysikk/english/people/adm/espentr/index.html"
     role: engineer
     image: /img/people/espentr.jpeg
-    bio: Senior engineer
+    bio: Senior Engineer
 
 daria:
     display_name: "Daria Kotova"
@@ -85,14 +85,14 @@ florine:
     webpage: "https://www.mn.uio.no/fysikk/english/people/aca/florinee/index.html"
     role: phd
     image: /img/people/florine.jpeg
-    bio: PhD
+    bio: Doctoral Research Fellow (PhD)
 
 pascal:
     display_name: "Pascal Sado"
     webpage: "https://www.mn.uio.no/fysikk/english/people/aca/pascalsa/index.html"
     role: phd
     image: /img/people/pascal.png
-    bio: PhD
+    bio: Doctoral Research Fellow (PhD)
 
 
 lisa:
@@ -100,8 +100,14 @@ lisa:
     webpage: "https://www.mn.uio.no/fysikk/english/people/aca/lisambu/index.html"
     role: phd
     image: /img/people/lisa.png
-    bio: PhD
+    bio: Doctoral Research Fellow (PhD)
 
+anna:
+    display_name: "Anna Piterskaya"
+    webpage: "https://www.mn.uio.no/math/english/people/aca/annapit/index.html"
+    role: phd
+    image: /img/people/anna.jpeg
+    bio: Doctoral Research Fellow (PhD), Mathematics
 
 grad-a:
     display_name: "Grad A"
@@ -140,13 +146,16 @@ grad-g:
 #     role: grad
 
 alum-a:
-    display_name: "Alum A"
+    display_name: "Sigvald Marholm"
     role: alum
-    bio: "Ph.D., 2013. Now at Microsoft Research."
+    webpage: "https://www.linkedin.com/in/sigvald-marholm-83963068/"
+    bio: "Ph.D. (2020), Researcher (2022). Now at Institute for Energy Technology (IFE)"
 
 alum-b:
-    display_name: "Alum B With Way Longer Name"
+    display_name: "Sayan Adhikari"
     role: alum
+    webpage: "https://www.linkedin.com/in/sayan-adhikari/"
+    bio: "Researcher (2022). Now at Institute for Energy Technology (IFE)"
 
 alum-c:
     display_name: "Alum C"
