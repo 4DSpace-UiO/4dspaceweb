@@ -10,7 +10,7 @@ people:
   - steffen
 
 layout: project
-image: "/img/rosetta_project.jpeg"
+image: "https://4dspace-uio.github.io/4dspaceweb/img/rosetta_project.jpeg"
 last-updated: 2022-08-25
 ---
 

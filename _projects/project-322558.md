@@ -10,7 +10,7 @@ people:
   - steffen
 
 layout: project
-image: "/img/jpno_big.jpg"
+image: "https://4dspace-uio.github.io/4dspaceweb/img/troll_project.jpeg/img/jpno_big.jpg"
 last-updated: 2022-08-25
 ---
 

@@ -12,7 +12,7 @@ people:
   - yaqi
 
 layout: project
-image: "/img/cusp_project.jpeg"
+image: "https://4dspace-uio.github.io/4dspaceweb/img/troll_project.jpeg/img/cusp_project.jpeg"
 last-updated: 2022-08-25
 ---
 
