@@ -1,6 +1,6 @@
 ---
 title: Antarctic ionospheric and space weather research at Troll station
-subtitle: Project Period: 2017 - 2022
+
 description: |
   In polar regions, the ionosphere, which is the partially ionized part of the atmosphere, is directly coupled to the Earth's magnetosphere. This is a very dynamic coupling, which strongly depends on the activity of the Sun, solar wind, and interplanetary magnetic field. This interaction is a key element in the understanding of space weather, which has an increasingly important impact on human activities on Earth and in space, including, but not limited to, communication and satellite-based navigation.
 
