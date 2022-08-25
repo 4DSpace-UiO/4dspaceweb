@@ -18,13 +18,15 @@ roles:
   - key: engineer
     name: Engineer
   - key: postdoc
+    name: Postdocs
+  - key: researcher
     name: Researchers
-  - key: grad
-    name: Graduate Students
-  - key: ugrad
-    name: Undergraduate Students
-  - key: ugrad-alum
-    name: Past Undergraduate Students
+  - key: phd
+    name: PhD Students
+  - key: master
+    name: Masters Students
+  - key: master-alum
+    name: Past Masters Students
   - key: collab
     name: Collaborators
   - key: alum

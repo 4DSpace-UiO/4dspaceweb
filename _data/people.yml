@@ -46,24 +46,56 @@ prof-Philipp:
 #     image: /img/people/prof-x.png
 #     bio: Professor
 
-scott:
+bjørn:
     display_name: "Bjørn Lybekk"
     webpage: "https://www.mn.uio.no/fysikk/english/people/adm/blybekk/index.html"
     role: engineer
     image: /img/people/blybekk.jpeg
     bio: Senior engineer
 
-wolverine:
-    display_name: "Wolverine"
-    webpage: "http://en.wikipedia.org/wiki/Wolverine_%28comics%29"
-    github: wolverine
-    role: postdoc
+espen:
+    display_name: "Espen Trondsen"
+    webpage: "https://www.mn.uio.no/fysikk/english/people/adm/espentr/index.html"
+    role: engineer
+    image: /img/people/espentr.jpeg
+    bio: Senior engineer
 
-storm:
-    display_name: "Storm"
-    webpage: "http://en.wikipedia.org/wiki/Storm_%28Marvel_Comics%29"
-    role: grad
-    image: /img/people/storm.png
+daria:
+    display_name: "Daria Kotova"
+    webpage: "https://www.mn.uio.no/fysikk/english/people/aca/dariakot/index.html"
+    image: /img/people/daria.jpeg
+    role: researcher
+
+yaqi:
+    display_name: "Yaqi Jin"
+    webpage: "https://www.mn.uio.no/fysikk/english/people/aca/yaqij/index.html"
+    image: /img/people/yaqi-jin.jpeg
+    role: researcher
+
+magnus:
+    display_name: "Magnus Fagernes Ivarsen"
+    webpage: "https://www.mn.uio.no/fysikk/english/people/aca/magnusiv/index.html"
+    role: postdoc
+    image: /img/people/magnus.jpeg
+
+florine:
+    display_name: "Florine Enengl"
+    webpage: "https://www.mn.uio.no/fysikk/english/people/aca/florinee/index.html"
+    role: phd
+    image: /img/people/florine.jpeg
+
+pascal:
+    display_name: "Pascal Sado"
+    webpage: "https://www.mn.uio.no/fysikk/english/people/aca/pascalsa/index.html"
+    role: phd
+    image: /img/people/pascal.jpeg
+
+
+lisa:
+    display_name: "Lisa Marie Buschmann"
+    webpage: "https://www.mn.uio.no/fysikk/english/people/aca/lisambu/index.html"
+    role: phd
+    image: /img/people/lisa.png
 
 # grad-a:
 #     display_name: "Grad A"
@@ -77,29 +109,29 @@ grad-c:
     display_name: "Grad C"
     role: grad
 
-grad-d:
-    display_name: "Grad D"
-    role: grad
-
-grad-e:
-    display_name: "Grad E"
-    role: grad
-
-grad-f:
-    display_name: "Grad F"
-    role: grad
-
-grad-g:
-    display_name: "Grad G"
-    role: grad
-
-grad-h:
-    display_name: "Grad H"
-    role: grad
-
-grad-i:
-    display_name: "Grad I"
-    role: grad
+# grad-d:
+#     display_name: "Grad D"
+#     role: grad
+#
+# grad-e:
+#     display_name: "Grad E"
+#     role: grad
+#
+# grad-f:
+#     display_name: "Grad F"
+#     role: grad
+#
+# grad-g:
+#     display_name: "Grad G"
+#     role: grad
+#
+# grad-h:
+#     display_name: "Grad H"
+#     role: grad
+#
+# grad-i:
+#     display_name: "Grad I"
+#     role: grad
 
 alum-a:
     display_name: "Alum A"
@@ -126,18 +158,18 @@ alum-e:
 alum-f:
     display_name: "Alum F"
     role: alum
-
-alum-g:
-    display_name: "Alum G"
-    role: alum
-
-alum-h:
-    display_name: "Alum H"
-    role: alum
-
-alum-i:
-    display_name: "Alum I"
-    role: alum
+#
+# alum-g:
+#     display_name: "Alum G"
+#     role: alum
+#
+# alum-h:
+#     display_name: "Alum H"
+#     role: alum
+#
+# alum-i:
+#     display_name: "Alum I"
+#     role: alum
 
 collab-a:
     display_name: "Collaborator A"
@@ -151,13 +183,13 @@ collab-c:
     display_name: "Collaborator C"
     role: collab
 
-collab-d:
-    display_name: "Collaborator D"
-    role: collab
-
-collab-e:
-    display_name: "Collaborator E"
-    role: collab
+# collab-d:
+#     display_name: "Collaborator D"
+#     role: collab
+#
+# collab-e:
+#     display_name: "Collaborator E"
+#     role: collab
 
 ugrad-a:
     display_name: "Ugrad A"
@@ -174,15 +206,15 @@ ugrad-c:
 ugrad-d:
     display_name: "Ugrad D"
     role: ugrad
-
-ugrad-e:
-    display_name: "Ugrad E"
-    role: ugrad
-
-ugrad-alum-a:
-    display_name: "Past Ugrad A"
-    role: ugrad-alum
-
-ugrad-alum-b:
-    display_name: "Past Ugrad Student B With Long Name"
-    role: ugrad-alum
+# 
+# ugrad-e:
+#     display_name: "Ugrad E"
+#     role: ugrad
+#
+# ugrad-alum-a:
+#     display_name: "Past Ugrad A"
+#     role: ugrad-alum
+#
+# ugrad-alum-b:
+#     display_name: "Past Ugrad Student B With Long Name"
+#     role: ugrad-alum
