@@ -34,7 +34,7 @@ roles:
 front_page_news: 8
 
 # Base pathname for links.
-base: ''
+base: '/4dspaceweb/'
 
 # make pages for the _projects folder
 collections:
