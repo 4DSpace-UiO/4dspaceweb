@@ -65,18 +65,20 @@ daria:
     webpage: "https://www.mn.uio.no/fysikk/english/people/aca/dariakot/index.html"
     image: /img/people/daria.jpeg
     role: researcher
-
+    bio: Researcher
 yaqi:
     display_name: "Yaqi Jin"
     webpage: "https://www.mn.uio.no/fysikk/english/people/aca/yaqij/index.html"
     image: /img/people/yaqi-jin.jpeg
     role: researcher
+    bio: Researcher
 
-magnus:
-    display_name: "Magnus Fagernes Ivarsen"
-    webpage: "https://www.mn.uio.no/fysikk/english/people/aca/magnusiv/index.html"
-    role: postdoc
-    image: /img/people/magnus.jpeg
+# magnus:
+#     display_name: "Magnus Fagernes Ivarsen"
+#     webpage: "https://www.mn.uio.no/fysikk/english/people/aca/magnusiv/index.html"
+#     role: postdoc
+#     image: /img/people/magnus.jpeg
+#     bio: Postdoc
 
 florine:
     display_name: "Florine Enengl"
@@ -206,7 +208,7 @@ ugrad-c:
 ugrad-d:
     display_name: "Ugrad D"
     role: ugrad
-# 
+#
 # ugrad-e:
 #     display_name: "Ugrad E"
 #     role: ugrad
