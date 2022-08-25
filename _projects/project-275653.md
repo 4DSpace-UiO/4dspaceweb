@@ -2,7 +2,7 @@
 title: 4DSpace investigation of plasma turbulence in the cusp ionosphere
 
 description: |
-  Cycle slips in GPS receivers frequently occur due to plasma density irregularities at high latitudes, even during solar minimum conditions. Recent observations have revealed that cusp auroral dynamics significantly amplify radio signal disturbances. The primary objective for this project is to explore the physical properties of the auroral cusp. In this project we are going to develop a 3D in-situ measurement technique for the Investigation of Cusp Irregularities (ICI) rocket program. Utilizing the miniaturized multi-Needle Langmuir probe system, we are going to instrument 12 ice-hockey puck sized daughter payloads to achieve multi-point measurements. The mini-payloads will be released 4 by 4, in two perpendicular directions, and travel at ~8 m/s relative to the main rocket body, to configure three squares around the rocket. During the flight we expect a final separation between the sub-payloads and the rocket of about 2.5 km and the largest separation between sub-payloads will be about 5 km. This innovative experiment will enable us to explore the 3D nature of turbulent structures. ICI-5 was launched from Ny-Ålesund in December 2019. We will use all available ground instruments, including EISCAT Svalbard Radar, the Longearbyen SuperDARN radar, and auroral instruments at the Kjell Henriksen Observatory, to precisely determine the optimal launch condition. ICI-5 was be part of the Grand Challenge Initiative Cusp rocket program, currently consisting of 10 rockets. This is an historic opportunity and our project is very timely. UiO has flown the novel 4-NLP system onboard 3 NASA rockets. We also flew it on the CAPER-2 payload from Andøya over Svalbard and will fly it on the JAXA rocket from Svalbard in January 2022. Information gathered by all rockets and the ground instruments will provide critical information about the drivers for the plasma turbulence.
+  Cycle slips in GPS receivers frequently occur due to plasma density irregularities at high latitudes, even during solar minimum conditions. Recent observations have revealed that cusp auroral dynamics significantly amplify radio signal disturbances. The primary objective for this project is to explore the physical properties of the auroral cusp. In this project we are going to develop a 3D in-situ measurement technique for the Investigation of Cusp Irregularities (ICI) rocket program. Utilizing the miniaturized multi-Needle Langmuir probe system, we are going to instrument 12 ice-hockey puck sized daughter payloads to achieve multi-point measurements.
 
 people:
   - prof-miloch
@@ -12,7 +12,7 @@ people:
   - yaqi
 
 layout: project
-image: "/img/jpno_big.jpg"
+image: "/img/cusp_project.jpeg"
 last-updated: 2022-08-25
 ---
 

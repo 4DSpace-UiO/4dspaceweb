@@ -2,7 +2,7 @@
 title: Cometary plasma environment studied by the Rosetta spacecraft
 
 description: |
-  Comets are one of the least understood, small objects in our Solar System, made primarily of ice, dust and small rocks. When approaching Sun, parts of this material is being heated up and creates a coma - partially ionized atmosphere around a comet. This represents a very complex system actively interacting with the solar wind plasma.   Many essential questions on the nature of comets are likely to be answered by the European Space Agency's Rosetta mission to the comet 67P/Churyumov-Gerasimenko. The Rosetta mission is unique, as it will accompany the comet for over a year, and it will be the first time ever the mankind will explore a comet with such a close inspection.
+  Comets are one of the least understood, small objects in our Solar System, made primarily of ice, dust and small rocks. When approaching Sun, parts of this material is being heated up and creates a coma - partially ionized atmosphere around a comet. This represents a very complex system actively interacting with the solar wind plasma. The Rosetta mission is unique, as it will accompany the comet for over a year, and it will be the first time ever the mankind will explore a comet with such a close inspection.
 
 people:
   - prof-miloch
