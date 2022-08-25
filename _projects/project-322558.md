@@ -1,6 +1,6 @@
 ---
 title: Japan-Norway Partnership for Computing in Space Science
-
+subtitle: Project Period: 2021 - 2026
 description: |
   Norway and Japan are very active in space science and exploration. For example, both countries send scientific rockets and satellites into the ionosphere, which is the uppermost part of the Earth atmosphere. In the polar regions it is directly connected to the interplanetary space and this is where we can observe auroras, which are due to highly energetic electrons originating from the Sun and entering the Earth atmosphere. Today, space science increasingly relies on numerical modeling and advanced numerical data analysis.
 

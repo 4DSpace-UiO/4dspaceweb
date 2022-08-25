@@ -1,6 +1,7 @@
 ---
 title: Project with a Longer Title
 subtitle: And a subtitle
+status: inactive
 
 description: |
   This project has a long title, but no other content.

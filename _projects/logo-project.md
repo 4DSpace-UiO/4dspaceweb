@@ -1,6 +1,6 @@
 ---
 title: Logo Project
-
+status: inactive
 notitle: true
 
 description: |
