@@ -107,6 +107,13 @@ magnus:
     image: /img/people/magnus.jpeg
     bio: Postdoc
 
+nicholas:
+    display_name: "Nicholas Ssessanga"
+    webpage: "https://www.mn.uio.no/fysikk/english/people/aca/nicholas-ssessanga/index.html"
+    role: postdoc
+    image: /img/people/nicholas.png
+    bio: Postdoc
+
 florine:
     display_name: "Florine Enengl"
     webpage: "https://www.mn.uio.no/fysikk/english/people/aca/florinee/index.html"
