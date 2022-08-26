@@ -53,6 +53,8 @@ navigation:
     link: /#people
   - title: Research
     link: /research.html
+  - title: Facilities and Instrumentation
+    link: /facilities.html
   - title: Publications
     link: /publications.html
   # - title: Code

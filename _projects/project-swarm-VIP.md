@@ -34,7 +34,7 @@ The Earth’s ionosphere is the uppermost part of the atmosphere above 60 km alt
 
 Ionospheric plasmas are often highly nonlinear and turbulent, and the scales of crucial processes can span over a few orders of magnitude. There can be a large number of interacting scales, where the dominant scales are usually triggered by external drivers. It is important to identify the dominant scales to understand the dynamics of the whole system and understand the physics and the main drivers behind the development of the irregularities. In addition, knowledge on statistical properties of the energy distributed between different scales, gives insight into the nature of phenomena, whether turbulent or intermittent, and thus relate it to the observable space weather effects. They should be studied for both quiescent and active geomagnetic conditions to provide a thorough understanding of the processes and lay the foundations for the ionospheric space weather models and forecast. In this project we address the major question:
 
-**_NOTE:_**  What is the spatiotemporal variability of the Earth ionosphere in relation to external drivers both during quiescent and extreme conditions?
+**_What is the spatiotemporal variability of the Earth ionosphere in relation to external drivers both during quiescent and extreme conditions?_**  
 
 ## Objectives
 
