@@ -53,8 +53,10 @@ navigation:
     link: /#people
   - title: Research
     link: /research.html
-  - title: Facilities and Instrumentation
+  - title: Research Facilities
     link: /facilities.html
+  - title: Space Education
+    link: https://www.mn.uio.no/fysikk/english/research/projects/4dspace/education/
   - title: Publications
     link: /publications.html
   # - title: Code
