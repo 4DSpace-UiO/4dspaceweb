@@ -6,7 +6,7 @@ description: |
 
 people:
   - prof-miloch
-  - prof-Mikael
+  - prof-mikael
   - steffen
 
 layout: project
