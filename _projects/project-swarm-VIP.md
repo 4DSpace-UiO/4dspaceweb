@@ -28,7 +28,7 @@ Swarm is the fifth Earth Explorer mission approved in ESA's Living Planet Progra
 The Earth’s ionosphere is the uppermost part of the atmosphere above 60 km altitude and spanning up to several hundred kilometres, where it merges with the Earth’s outer environment. Its dynamics is very complex, as also illustrated in the figure below. It is in a plasma state, by being partially ionised by the solar UV radiation, and also by precipitating energetic particles. Thus it contains electrons, ions, and neutral atoms and molecules.
 
 <!-- ![Earth atmosphere-ionosphere](https://www.mn.uio.no/fysikk/english/research/projects/swarm-vip/earth_ionosphere_nasa_j_grobowksy.png) -->
-<img src="https://www.mn.uio.no/fysikk/english/research/projects/swarm-vip/earth_ionosphere_nasa_j_grobowksy.png" width="80%" height="80%">
+<img src="https://www.mn.uio.no/fysikk/english/research/projects/swarm-vip/earth_ionosphere_nasa_j_grobowksy.png" width="60%" height="60%">
 
 *Complexity of the Earth atmosphere-ionosphere system (credits NASA/ J. Grobowsky).*
 
@@ -49,7 +49,7 @@ We use different techniques for scale analysis, as well as generalised linear mo
 
 ## Team
 <!-- ![Swarm VIP Team](https://www.mn.uio.no/fysikk/english/research/projects/swarm-vip/logos_swarmvip.png) -->
-<img src="https://www.mn.uio.no/fysikk/english/research/projects/swarm/esa_logo.png" width="50%" height="50%">
+<img src="https://www.mn.uio.no/fysikk/english/research/projects/swarm-vip/logos_swarmvip.png" width="50%" height="50%">
 
 ## Funding
 <!-- ![ESA](https://www.mn.uio.no/fysikk/english/research/projects/swarm/esa_logo.png) -->
