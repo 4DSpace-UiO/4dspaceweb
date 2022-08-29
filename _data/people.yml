@@ -13,6 +13,7 @@ prof-lasse:
     bio: Professor
     webpage: "https://www.mn.uio.no/fysikk/english/people/aca/lbnc/index.html"
 
+
 prof-mikael:
     display_name: "Prof. Mikael Mortensen"
     role: faculty
@@ -150,33 +151,33 @@ anna:
     image: /img/people/anna.jpeg
     bio: Doctoral Research Fellow (PhD), Mathematics
 
-grad-a:
-    display_name: "Grad A"
-    role: grad
-
-grad-b:
-    display_name: "Graduate Student B With Long Name"
-    role: grad
-
-grad-c:
-    display_name: "Grad C"
-    role: grad
-
-grad-d:
-    display_name: "Grad D"
-    role: grad
-
-grad-e:
-    display_name: "Grad E"
-    role: grad
-
-grad-f:
-    display_name: "Grad F"
-    role: grad
-
-grad-g:
-    display_name: "Grad G"
-    role: grad
+# grad-a:
+#     display_name: "Grad A"
+#     role: grad
+#
+# grad-b:
+#     display_name: "Graduate Student B With Long Name"
+#     role: grad
+#
+# grad-c:
+#     display_name: "Grad C"
+#     role: grad
+#
+# grad-d:
+#     display_name: "Grad D"
+#     role: grad
+#
+# grad-e:
+#     display_name: "Grad E"
+#     role: grad
+#
+# grad-f:
+#     display_name: "Grad F"
+#     role: grad
+#
+# grad-g:
+#     display_name: "Grad G"
+#     role: grad
 
 # grad-h:
 #     display_name: "Grad H"
