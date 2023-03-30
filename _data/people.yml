@@ -101,6 +101,13 @@ yaqi:
     role: researcher
     bio: Researcher
 
+rinku:
+    display_name: "Rinku Mishra"
+    webpage: "https://www.mn.uio.no/fysikk/english/people/aca/rinkum/index.html"
+    image: /img/people/rinku_profile.jpg
+    role: researcher
+    bio: Researcher
+    
 magnus:
     display_name: "Magnus Fagernes Ivarsen"
     webpage: "https://www.mn.uio.no/fysikk/english/people/aca/magnusiv/index.html"
