@@ -10,6 +10,6 @@ people:
   
 layout: project
 image: "https://4dspace-uio.github.io/4dspaceweb/img/210216JAV1446.jpg"
-last-updated: 2022-12-10
+last-updated: 2022-10-12
 status: active
 ---
