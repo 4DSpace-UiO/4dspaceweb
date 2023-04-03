@@ -266,6 +266,11 @@ collab-b:
     role: collab
     bio: Professor, Faculty of Science, University of Alberta, Canada
 
+collab-c:
+    display_name: "Alexander Chernyshov"
+    role: collab
+    bio: Senior Researcher, Space Plasma Physics Department, Space Research Institute of the Russian Academy of Sciences, Russia
+
 # collab-c:
 #     display_name: "Collaborator C"
 #     role: collab
