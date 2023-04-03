@@ -1,6 +1,6 @@
 ---
 title: BRIK-II
-
+subtitle: Status - active
 description: |
   In summer 2021 Virgin Orbit launched the dutch satellite BRIK-II into orbit around Earth. 
 people:
@@ -14,5 +14,3 @@ last-updated: 2022-10-12
 status: active
 ---
 In summer 2021 Virgin Orbit launched the dutch satellite BRIK-II into orbit around Earth. The satellite carries a multi-needle Langmuir probe capable at resolving ionospheric plasma densities at very high resolution. Together with dutch colleagues, members of the 4DSpace Research Group are now investigating how to use BRIK-II data to further improve our understanding of ionospheric signal disturbances.
-
-Status: active
