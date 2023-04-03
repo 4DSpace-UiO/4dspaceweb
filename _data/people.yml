@@ -208,11 +208,23 @@ alum-sigvald:
     webpage: "https://www.linkedin.com/in/sigvald-marholm-83963068/"
     bio: "Ph.D. (2020), Researcher (2022). Now at Institute for Energy Technology (IFE), Norway"
 
+alum-francesca:
+    display_name: "Francesca di Mare"
+    role: alum
+    webpage: 
+    bio: "Postdoc (2022). "
+
 alum-anders:
     display_name: "Anders Eklund"
     role: alum
     webpage: "https://www.sintef.no/en/all-employees/employee/anders.eklund/"
     bio: "Postdoc (2021). Now at SINTEF, Norway"
+    
+alum-andres:
+    display_name: "Andres Spicher"
+    role: alum
+    webpage: "https://uit.no/ansatte/person?p_document_id=715237"
+    bio: "Master (2013), Ph.D. (2017), Postdoc (2021). Now at UiT, Tromsø, Norway"   
 
 alum-toru:
     display_name: "Toru Takahashi"
