@@ -7,6 +7,7 @@ description: |
 people:
   - prof-miloch
   - prof-mikael
+  - daria
   - steffen
 
 layout: project
