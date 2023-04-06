@@ -8,4 +8,5 @@ image_link: "[https://twitter.com/ispace_inc/status/1643500101955104769?ref_src=
 ---
 
 UPDATE FROM [Canadensys Aerospace](https://twitter.com/Canadensys1): "We've got the moon in our sights! The Canadensys multi-camera AI-enabled lunar 360-degree imaging system is in lunar orbit aboard the Japanese ispace lander and has collected spectacular images of our Moon".
-![image](https://user-images.githubusercontent.com/34118642/230452932-b0256844-748c-46f3-bf59-68c8064f0f97.png)
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">We&#39;ve got the moon in our sights! The Canadensys multi-camera AI-enabled lunar 360-degree imaging system is in lunar orbit aboard the Japanese ispace lander and has collected spectacular images of our Moon. Read more on our website: [<a href="https://t.co/CE4IERJM3q">https://t.co/CE4IERJM3q</a>] <a href="https://t.co/Qm3QEs71xX">pic.twitter.com/Qm3QEs71xX</a></p>&mdash; Canadensys Aerospace (@Canadensys1) <a href="https://twitter.com/Canadensys1/status/1641062663940866048?ref_src=twsrc%5Etfw">March 29, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
