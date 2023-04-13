@@ -158,6 +158,13 @@ anna:
     image: /img/people/anna.jpeg
     bio: Doctoral Research Fellow (PhD), Mathematics
 
+gaute:
+    display_name: "Gaute Arnesson Holen"
+    webpage: 
+    role: phd
+    # image: /img/people/Gaute_W19.png
+    bio: Doctoral Research Fellow (PhD)
+    
 # grad-a:
 #     display_name: "Grad A"
 #     role: grad
