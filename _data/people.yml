@@ -51,6 +51,13 @@ espen:
     image: /img/people/espentr.jpeg
     bio: Senior Engineer
 
+jonas:
+    display_name: "Jonas Birkeland Carlsen"
+    webpage: "https://www.mn.uio.no/fysikk/english/people/adm/jonasbc/index.html"
+    role: engineer
+    image: /img/people/jonas_birkeland.jpg
+    bio: Senior Engineer    
+
 prof-hans:
     display_name: "Prof. Hans Laszlo Pecseli"
     role: emeritus
@@ -105,6 +112,13 @@ rinku:
     display_name: "Rinku Mishra"
     webpage: "https://www.mn.uio.no/fysikk/english/people/aca/rinkum/index.html"
     image: /img/people/rinku_profile.jpg
+    role: researcher
+    bio: Researcher
+
+oliver:
+    display_name: "Oliver Pabst"
+    webpage: "https://www.mn.uio.no/fysikk/personer/vit/oliverpa/index.html"
+    image: /img/people/oliver.jpg
     role: researcher
     bio: Researcher
     
