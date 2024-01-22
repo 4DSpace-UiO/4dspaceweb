@@ -136,21 +136,6 @@ nicholas:
     image: /img/people/nicholas.png
     bio: Postdoc
 
-florine:
-    display_name: "Florine Enengl"
-    webpage: "https://www.mn.uio.no/fysikk/english/people/aca/florinee/index.html"
-    role: phd
-    image: /img/people/florine.jpeg
-    bio: Doctoral Research Fellow (PhD)
-
-pascal:
-    display_name: "Pascal Sado"
-    webpage: "https://www.mn.uio.no/fysikk/english/people/aca/pascalsa/index.html"
-    role: phd
-    image: /img/people/pascal.png
-    bio: Doctoral Research Fellow (PhD)
-
-
 lisa:
     display_name: "Lisa Marie Buschmann"
     webpage: "https://www.mn.uio.no/fysikk/english/people/aca/lisambu/index.html"
@@ -214,8 +199,17 @@ gaute:
 # grad-i:
 #     display_name: "Grad I"
 #     role: grad
+alum-florine:
+    display_name: "Florine Enengl"
+    role: alum
+    webpage: "https://no.linkedin.com/in/florine-enengl-36353a169/en"
+    bio: "Ph.D. (2023). Now at Fugro, Norway"
 
-
+alum-pascal:
+    display_name: "Pascal Sado"
+    role: alum
+    webpage: "https://no.linkedin.com/in/pascal-sado/"
+    bio: "Ph.D. (2023). Now at Justervesenet, Norway"
 
 alum-sayan:
     display_name: "Sayan Adhikari"
