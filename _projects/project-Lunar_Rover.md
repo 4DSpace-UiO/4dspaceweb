@@ -8,7 +8,7 @@ people:
   - prof-miloch
   
 layout: project
-image: "https://4dspace-uio.github.io/4dspaceweb/img/FMRoverRearMaterialsMarked.JPG"
+image: "https://github.com/4DSpace-UiO/4dspaceweb/blob/master/img/FMRoverRearMaterialsMarked.jpg"
 last-updated: 2023-04-03
 status: active
 link: https://www.mbrsc.ae/service/emirates-lunar-mission/
